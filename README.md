@@ -28,7 +28,7 @@
 
 
 ## 구현 기능
-로그인, 견적요청, 판매자쪽에서 보내온 견적 리스트 조회
+로그인, 견적요청, 판매자쪽에서 보내온 견적 리스트 조회, 인덱스 구역 잡기
 
 # 로그인
 ![로그인](https://github.com/Useodam/HTA_semi/blob/70e19bf9ce9d9ea8a53c3c3c3a9a2cb937697cad/src/sor/%EB%A1%9C%EA%B7%B8%EC%9D%B8(1).png)
@@ -39,4 +39,10 @@
 ![견적요청](https://github.com/Useodam/HTA_semi/blob/70e19bf9ce9d9ea8a53c3c3c3a9a2cb937697cad/src/sor/estimate(3).png)
 ![견적요청](https://github.com/Useodam/HTA_semi/blob/70e19bf9ce9d9ea8a53c3c3c3a9a2cb937697cad/src/sor/estimate(4).png)
 ![견적요청](https://github.com/Useodam/HTA_semi/blob/70e19bf9ce9d9ea8a53c3c3c3a9a2cb937697cad/src/sor/estimate(comp).png)
+
+# 견적 리스트 조회
+![견적 리스트 조회](https://github.com/Useodam/HTA_semi/blob/eea3e5d8864dce7642f1a0117c7e99a72caae3ac/src/sor/%EB%B0%9B%EC%9D%80%20%EA%B2%AC%EC%A0%81%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(test).png)
+
+# 인덱스 구역
+![인덱스구역](https://github.com/Useodam/HTA_semi/blob/eea3e5d8864dce7642f1a0117c7e99a72caae3ac/src/sor/index.png)
 
