@@ -23,6 +23,7 @@
 웹에 대한 가장 기본적인 기초를 및 웹에서 어떻게 동작 하는지를 학습한 후<br> 3주라는 짧은 기간동안 어느정도의 기능을 구현할 수 있는지 확인하기 위해 진행하였습니다<br>
 
 ## ERD
+![ERD](https://github.com/Useodam/HTA_semi/blob/7d265a630a5b0348c525ffe910eec8a57fa8657e/erd%20(1).jpg)
 
 
 ## 구현 기능
