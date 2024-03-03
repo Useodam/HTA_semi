@@ -1,6 +1,6 @@
 # HTA_semi 
 
-# 뭅뭅
+# WouldYou
 
 ## JSP를 사용해서 만든 세미 프로젝트
 
@@ -12,7 +12,7 @@
 
 
 ## 개요
-* 프로젝트 이름 : 뭅뭅
+* 프로젝트 이름 : WouldYou
 * 프로젝트 기간 : 2024.01.22~2024.02.13
 * 프로젝트 진행 기관 : 중앙 HTA
 * 개발 언어 : Java17, Oracle, IBatis, JSP, HTML/CSS, JavaScript(ES6), Ajax
